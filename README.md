@@ -1,43 +1,17 @@
 app-wordpress Cookbook
 ======================
-TODO: Enter the cookbook description here.
+Installs wordpress on windoze
 
-e.g.
-This cookbook makes your favorite breakfast sandwhich.
 
 Requirements
 ------------
-TODO: List your cookbook requirements. Be sure to include any requirements this cookbook has on platforms, libraries, other cookbooks, packages, operating systems, etc.
+Needs a windoze box
 
-e.g.
-#### packages
-- `toaster` - app-wordpress needs toaster to brown your bagel.
 
-Attributes
-----------
-TODO: List you cookbook attributes here.
-
-e.g.
-#### app-wordpress::default
-<table>
-  <tr>
-    <th>Key</th>
-    <th>Type</th>
-    <th>Description</th>
-    <th>Default</th>
-  </tr>
-  <tr>
-    <td><tt>['app-wordpress']['bacon']</tt></td>
-    <td>Boolean</td>
-    <td>whether to include bacon</td>
-    <td><tt>true</tt></td>
-  </tr>
-</table>
 
 Usage
 -----
 #### app-wordpress::default
-TODO: Write usage instructions for each cookbook.
 
 e.g.
 Just include `app-wordpress` in your node's `run_list`:
@@ -53,7 +27,6 @@ Just include `app-wordpress` in your node's `run_list`:
 
 Contributing
 ------------
-TODO: (optional) If this is a public cookbook, detail the process for contributing. If this is a private cookbook, remove this section.
 
 e.g.
 1. Fork the repository on Github
@@ -65,4 +38,4 @@ e.g.
 
 License and Authors
 -------------------
-Authors: TODO: List authors
+Authors: Azul
